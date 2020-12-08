@@ -1,0 +1,8 @@
+# Generic
+*.pyc
+*.ipynb
+.DS_Store
+.env
+# Pipfiles not needed in production (Heroku)
+Pipfile
+Pipfile.lock

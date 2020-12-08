@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: white;
+  font-family: 'Roboto';
+  color: #203cb3;
+}
+
+.main-banner {
+  background: rgb(2, 12, 70);
+  color: white;
+  padding: 12px;
+  padding-left: 48px;
+}
+
+.div-logo{
+  display: inline-block;
+  float: right;
+}
+
+.logo{
+  height: 35px;
+  padding: 6px;
+  margin-top: 3px;
+}
+
+.h2-title{
+  font-family: 'Roboto';
+  display: inline-block;
+  letter-spacing: 3.8px;
+  font-weight: 800;
+  font-size: 20px;
+}
